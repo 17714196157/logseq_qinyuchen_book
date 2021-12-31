@@ -1,0 +1,8 @@
+- DIP是主要诊断和其对应的主要治疗方法对应做分组
+- ![image.png](../assets/image_1640943247765_0.png)
+-
+- DRG是类似的疾病和治疗操作进行分组
+- ![image.png](../assets/image_1640943291542_0.png)
+-
+- ![image.png](../assets/image_1640943313398_0.png)
+-
