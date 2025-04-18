@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :zotero/settings-v2 {"default" {:type-id "8923767", :zotero-data-directory "D:\\ENV\\坚果云\\Zotero", :zotero-linked-attachment-base-directory "D:\\ENV\\Zotero_期刊论文"}}
- :favorites []
+ :favorites ["策略提升定理"]
  :journal/page-title-format "yyyy年MM月dd日"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)

@@ -1,0 +1,7 @@
+-
+- 面对决策型任务如何用数学去描述这个过程？----- MDP马尔科夫决策过程
+- ##### 1.马尔科夫奖励过程Markovrewardprocess(MRP)
+- ![image.png](../assets/image_1744774049709_0.png)
+-
+- ##### 2.马尔科夫决策过程
+- ![image.png](../assets/image_1744774149529_0.png){:height 474, :width 776}
