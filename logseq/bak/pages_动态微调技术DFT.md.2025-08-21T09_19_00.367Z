@@ -1,0 +1,67 @@
+- 论文地址：https://arxiv.org/abs/2508.05629
+- 代码参考： https://github.com/Lauorie/DFT
+- 一句话总结:改动一行代码，将SFT变成DFT，提升模型泛化性能
+-
+- ### 1.背景介绍
+- 为什么强化学习RL的效果比SFT效果要好?
+- SFT容易学得很快，但泛化差，经常在新题上翻车
+- RL泛化好，但成本高、调参难，还要奖励信号。
+- 常见的方式是先用SFT做模型初始化，再用RL进行模型调优，这也是现在LLM最常用的训练范式。
+- SFT(监督微调)就像给学生抄满分作业本，抄的再熟练，也是只对见过的题熟练，没有掌握方法和策略，见到新的题就完蛋了。
+- RL(强化学习)像让学生做题拿分(打分就是一种奖励)，训练的是学生的做题方法和策略，因此泛化性更好，见到相同内涵的不同形式的新题，也能答对。
+- 两者联合，先抄满分答案，再做题，效果更好，这也是现在大模型的训练范式。
+-
+- ### 2.如何解决呢?
+- 仅需要一行代码的改动，将SFT变成DFT。**核心是不要让SFT中的隐式奖励一直变大，而是重新scale一下即可，将权重取消。**
+- 站在RL的角度，SFT存在一些问题，仅需要一行代码的修改，就可以提高SFT的泛化性:
+- For each token, our method simply rescales the standard SFT objectives with the token probability
+- 把SFT的loss乘上该token的概率(π)，相当于奖励归一化，让每个正确token的奖励一样，不管它原本的预测概率是多少，也就是不管它原始的难度是多少。这样就去掉了那个“”的放大器，让训练更稳定，不会对罕见样本过度痴迷。
+- “不再是蒙对一题给100倍分，做对就都是一分--公平公正，绝不偏心
+-
+- ### 3.代码讲解
+- '''python
+- loss = loss * torch.softmax(shift_logits, dim=-1).gather(1,shift_labels.unsqueeze(-1)).squeeze(-1).detach()
+- '''
+-
+-
+-
+- ### 4. kimi给出的代码demo
+- 传统 SFT 的梯度里隐藏了一个“逆概率权重” 1/pθ ，导致模型越不自信，梯度反而越大 → 难样本主导训练 → 过拟合。
+  DFT 把梯度再乘一个 pθ 把 1/pθ 抵消掉，于是
+  • 高置信 token：权重≈1，正常学；
+  • 低置信 token：权重≈0，梯度被压制。
+-
+  <pre>```python 
+  import torch
+  import torch.nn.functional as F
+  
+  def dft_loss(logits, labels, ignore_index=-100, alpha=1.0):
+    """
+    logits: [batch, seq_len, vocab]  语言模型输出
+    labels: [batch, seq_len]         真实 token id
+    alpha : float, 论文默认 1.0（可看成缩放因子）
+    """
+    # 1) 展平成二维方便批量处理
+    logits = logits.view(-1, logits.size(-1))
+    labels = labels.view(-1)
+  
+    # 2) 计算标准交叉熵（reduction='none'保留每个token损失）
+    ce = F.cross_entropy(logits, labels, reduction='none', ignore_index=ignore_index)
+  
+    # 3) 取模型对正确 token 的概率 pθ
+    with torch.no_grad():                 # 关键：stop-gradient
+        pθ = F.softmax(logits, dim=-1)   # [B*L, V]
+        pθ = pθ.gather(1, labels.unsqueeze(1)).squeeze(1)  # [B*L]
+  
+    # 4) 重加权
+    weight = pθ * alpha                  # 若想让“易样本”再稍降权，可把 alpha<1
+    loss = ce * weight                   # 核心一行
+  
+    # 5) 平均到有效 token 上
+    mask = labels != ignore_index
+    return loss.sum() / mask.sum()
+  
+  # 使用方式：把你原来 loss = cross_entropy(logits, labels) 直接换成
+  # loss = dft_loss(logits, labels)
+  ``` </pre>
+-

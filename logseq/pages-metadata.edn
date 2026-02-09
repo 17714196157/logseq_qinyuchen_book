@@ -1,10 +1,44 @@
 [{:block/name "../assets/image_1744702648011_0.png s",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png  =",
+  :block/created-at 1770627882112,
+  :block/updated-at 1770627882112}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png  =300",
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png  =300_500",
+  :block/created-at 1770627882111,
+  :block/updated-at 1770627882111}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png  =300x200",
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png  =50_x",
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png ,",
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png =300x200",
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png =400x",
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png =400x300",
+  :block/created-at 1770627882111,
+  :block/updated-at 1770627882111}
+ {:block/name
+  "../assets/rft工作流程_1770627193438_0.png width=_300_ height=_200_",
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
+ {:block/name "../assets/rft工作流程_1770627193438_0.png=300x200",
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
  {:block/name
   "../assets/《deep_learning_interviews》第二版_1642481065149_0.pdf",
-  :block/created-at 1744861654396,
-  :block/updated-at 1744861654396}
+  :block/created-at 1770627882109,
+  :block/updated-at 1770627882109}
  {:block/name "2022年04月08日",
   :block/created-at 1649409846049,
   :block/updated-at 1649409846124}
@@ -20,23 +54,83 @@
  {:block/name "2025年04月17日",
   :block/created-at 1744848000000,
   :block/updated-at 1744848000000}
+ {:block/name "2025年04月18日",
+  :block/created-at 1744934400000,
+  :block/updated-at 1744934400000}
+ {:block/name "2025年05月25日",
+  :block/created-at 1748131200000,
+  :block/updated-at 1748131200000}
+ {:block/name "2025年06月19日",
+  :block/created-at 1750333796570,
+  :block/updated-at 1750333796570}
+ {:block/name "2025年06月28日",
+  :block/created-at 1751043301202,
+  :block/updated-at 1751043610395}
+ {:block/name "2025年07月03日",
+  :block/created-at 1751500800000,
+  :block/updated-at 1751500800000}
+ {:block/name "2025年07月09日",
+  :block/created-at 1752019200000,
+  :block/updated-at 1752019200000}
+ {:block/name "2025年07月11日",
+  :block/created-at 1752192000000,
+  :block/updated-at 1752192000000}
+ {:block/name "2025年07月17日",
+  :block/created-at 1752710400000,
+  :block/updated-at 1752710400000}
+ {:block/name "2025年07月20日",
+  :block/created-at 1752969600000,
+  :block/updated-at 1752969600000}
+ {:block/name "2025年07月27日",
+  :block/created-at 1753574400000,
+  :block/updated-at 1753574400000}
+ {:block/name "2025年08月06日",
+  :block/created-at 1754438400000,
+  :block/updated-at 1754438400000}
+ {:block/name "2025年08月21日",
+  :block/created-at 1755734400000,
+  :block/updated-at 1755734400000}
+ {:block/name "2025年09月01日",
+  :block/created-at 1756684800000,
+  :block/updated-at 1756684800000}
+ {:block/name "2025年11月04日",
+  :block/created-at 1762214400000,
+  :block/updated-at 1762214400000}
+ {:block/name "2025年12月17日",
+  :block/created-at 1765929600000,
+  :block/updated-at 1765929600000}
+ {:block/name "2025年12月19日",
+  :block/created-at 1766102400000,
+  :block/updated-at 1766102400000}
+ {:block/name "2026年01月09日",
+  :block/created-at 1767916800000,
+  :block/updated-at 1767916800000}
+ {:block/name "2026年02月02日",
+  :block/created-at 1769990400000,
+  :block/updated-at 1769990400000}
+ {:block/name "2026年02月09日",
+  :block/created-at 1770595200000,
+  :block/updated-at 1770595200000}
  {:block/name
   "@dnorm_ disease name normalization with pairwise learning to rank",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
  {:block/name
   "@prado_ projection attention networks for document classification on-device",
-  :block/created-at 1744861654397,
-  :block/updated-at 1744861654397}
+  :block/created-at 1770627882112,
+  :block/updated-at 1770627882112}
  {:block/name "a",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
  {:block/name "actor-critic 算法",
   :block/created-at 1744859977145,
   :block/updated-at 1744861417587}
+ {:block/name "ai应用",
+  :block/created-at 1762242323199,
+  :block/updated-at 1762244218829}
  {:block/name "attachments",
-  :block/created-at 1744861654396,
-  :block/updated-at 1744861654396}
+  :block/created-at 1770627882109,
+  :block/updated-at 1770627882109}
  {:block/name "aug 14th, 2021",
   :block/created-at 1628899200000,
   :block/updated-at 1628899200000}
@@ -50,14 +144,20 @@
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
  {:block/name "conferencepaper",
-  :block/created-at 1744861654397,
-  :block/updated-at 1744861654397}
+  :block/created-at 1770627882112,
+  :block/updated-at 1770627882112}
  {:block/name "contents",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
+ {:block/name "dapo强化学习算法",
+  :block/created-at 1748172775332,
+  :block/updated-at 1748173138335}
  {:block/name "daxin jiang",
-  :block/created-at 1744861654397,
-  :block/updated-at 1744861654397}
+  :block/created-at 1770627882112,
+  :block/updated-at 1770627882112}
+ {:block/name "deep think with confidence",
+  :block/created-at 1756715467277,
+  :block/updated-at 1756715719925}
  {:block/name "dip与drg病案管理工具",
   :block/created-at 1640943148315,
   :block/updated-at 1640943869760}
@@ -70,6 +170,9 @@
  {:block/name "favorites",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
+ {:block/name "grpo",
+  :block/created-at 1752985735676,
+  :block/updated-at 1752986009971}
  {:block/name "in-progress",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
@@ -86,11 +189,11 @@
   :block/created-at 1643241600000,
   :block/updated-at 1643241600000}
  {:block/name "jian pei",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
  {:block/name "journalarticle",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
  {:block/name "later",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
@@ -101,18 +204,21 @@
   :block/created-at 1642044326473,
   :block/updated-at 1642044441881}
  {:block/name "linjun shou",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
  {:block/name "mdp马尔科夫决策过程",
   :block/created-at 1744796238720,
-  :block/updated-at 1744796486351}
+  :block/updated-at 1744957875121}
  {:block/name
   "medrag_ enhancing retrieval-augmented generation with knowledge graph-elicited reasoning for healthcare copilot",
   :block/created-at 1744649209950,
-  :block/updated-at 1744790102663}
+  :block/updated-at 1744963367708}
  {:block/name "ming gong",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
+ {:block/name "mtp",
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
  {:block/name "nov 15th, 2013",
   :block/created-at 1384473600000,
   :block/updated-at 1384473600000}
@@ -120,23 +226,35 @@
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
  {:block/name "prabhu kaliamoorthi",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
  {:block/name "q-learning算法",
   :block/created-at 1744858789134,
   :block/updated-at 1744859084576}
  {:block/name "r. islamaj dogan",
-  :block/created-at 1744861654396,
-  :block/updated-at 1744861654396}
+  :block/created-at 1770627882111,
+  :block/updated-at 1770627882111}
  {:block/name "r. leaman",
-  :block/created-at 1744861654396,
-  :block/updated-at 1744861654396}
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
+ {:block/name "reinforcement-learning-teachers-of-test-time-scali",
+  :block/created-at 1752222272180,
+  :block/updated-at 1752222854694}
+ {:block/name "rejection sampling for language model alignment",
+  :block/created-at 1770626161600,
+  :block/updated-at 1770627875965}
+ {:block/name "rejection sampling for language model alignment ",
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
  {:block/name "shining liang",
-  :block/created-at 1744861654396,
-  :block/updated-at 1744861654396}
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
+ {:block/name "soft thinking软思考",
+  :block/created-at 1755764538318,
+  :block/updated-at 1755764543604}
  {:block/name "sujith ravi",
-  :block/created-at 1744861654397,
-  :block/updated-at 1744861654397}
+  :block/created-at 1770627882111,
+  :block/updated-at 1770627882111}
  {:block/name "todo",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
@@ -147,35 +265,63 @@
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
  {:block/name "wanli zuo",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
  {:block/name "xianglin zuo",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
  {:block/name "z. lu",
-  :block/created-at 1744861654395,
-  :block/updated-at 1744861654395}
+  :block/created-at 1770627882106,
+  :block/updated-at 1770627882106}
  {:block/name "zornitsa kozareva",
-  :block/created-at 1744861654396,
-  :block/updated-at 1744861654396}
+  :block/created-at 1770627882110,
+  :block/updated-at 1770627882110}
  {:block/name "价值函数",
   :block/created-at 1744797139031,
-  :block/updated-at 1744797143968}
+  :block/updated-at 1744958514884}
+ {:block/name "动态微调技术dft",
+  :block/created-at 1755765949652,
+  :block/updated-at 1755768118588}
+ {:block/name "参数化价值函数",
+  :block/created-at 1744949810912,
+  :block/updated-at 1744949907718}
  {:block/name "图基础知识",
   :block/created-at 1641371775631,
   :block/updated-at 1641372544138}
+ {:block/name "大模型安全防护方案",
+  :block/created-at 1765962654523,
+  :block/updated-at 1765963899745}
  {:block/name "强化学习vs有监督学习",
   :block/created-at 1744796629292,
-  :block/updated-at 1744797021196}
+  :block/updated-at 1744957729730}
+ {:block/name "强化学习在rag系统中的实践",
+  :block/created-at 1770627882111,
+  :block/updated-at 1770627882111}
  {:block/name "强化学习基础入口",
   :block/created-at 1744702458056,
-  :block/updated-at 1744859942346}
+  :block/updated-at 1752985584121}
+ {:block/name "强化学习的定义",
+  :block/created-at 1744956204445,
+  :block/updated-at 1744958477401}
  {:block/name "强化学习算法的分类",
   :block/created-at 1744821172487,
   :block/updated-at 1744821953108}
+ {:block/name "无监督强化学习",
+  :block/created-at 1751535115347,
+  :block/updated-at 1751536536511}
  {:block/name "策略提升定理",
   :block/created-at 1744795035047,
   :block/updated-at 1744796183070}
  {:block/name "策略梯度",
-  :block/created-at 1744819916020, 
-  :block/updated-at 1744820933607}]
+  :block/created-at 1744819916020,
+  :block/updated-at 1744820933607}
+ {:block/name
+  "让模型自我进化(self-training) 或 迭代自举训练(iterative bootstrapping training) 或 自我演化(self-evolution)",
+  :block/created-at 1770624817473,
+  :block/updated-at 1770626148094}
+ {:block/name "论文_soft thinking",
+  :block/created-at 1770627882107,
+  :block/updated-at 1770627882107}
+ {:block/name "论文解读",
+  :block/created-at 1752055059584, 
+  :block/updated-at 1770619932966}]

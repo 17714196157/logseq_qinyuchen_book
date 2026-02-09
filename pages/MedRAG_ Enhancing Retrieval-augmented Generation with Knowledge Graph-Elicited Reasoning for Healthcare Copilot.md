@@ -10,7 +10,7 @@
 - 然后，我们使用统一后的 \(E_{L3}\) 通过分层聚合构建一个四层疾病知识图谱 \(G_D\)。图谱中从顶层到底层的路径为 \(E_{L1} \xrightarrow{r_s} E_{L2} \xrightarrow{r_s} E_{L3} \xleftarrow{r_m} E_{L4}\)。\(r_s\) 表示 is_a 关系，\(r_m\) 表示 has_manifestation_of 关系。
 - \[G_D = \Theta(E_{Li}, M_h, \mathcal{E}), i = 3, 2.\]
 - 我们应用基于 LLM 的主题聚合，使用 \(M_h\) 从 \(E_{L3}\) 中提取最相关的主题到子类别（\(E_{L2}\)）。这些子类别主题随后被进一步聚合到更高级别的类别中，形成从子类别到更广泛类别（\(E_{L1}\)）的分层结构。\(E_{L4}\) 为疾病对应的外在表现。
-- Gemini 举例：心血管疾病（\(E_{L1}\)）\(\xleftarrow{is\ a}\) 冠状动脉疾病（\(E_{L2}\)）\(\xleftarrow{is\ a}\) 心肌梗死（\(E_{L3}\)）\(\xleftarrow{has\ manifestation\ of}\) 胸痛（\(E_{L4}\)）
+- 举例：心血管疾病（\(E_{L1}\)）\(\xleftarrow{is\ a}\) 冠状动脉疾病（\(E_{L2}\)）\(\xleftarrow{is\ a}\) 心肌梗死（\(E_{L3}\)）\(\xleftarrow{has\ manifestation\ of}\) 胸痛（\(E_{L4}\)）
 -
 -
 - \( G_D \) 中的知识仅包含来自 EHR 数据库的信息，这在准确区分具有相似临床表现的疾病时是不够的，因此我们使用外部知识增强 \( E_{L4} \) 到 \( G_D \)。我们遍历所有疾病 \( e_{L3i} \in E_{L3} \)，并采用专门为搜索和生成疾病的细微差别而定制的提示 \( p_a \)。
