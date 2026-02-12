@@ -12,5 +12,5 @@
   | **RFT (Rejection Sampling Fine-Tuning)** | 拒绝采样微调，只保留高质量样本进行训练      | [[Rejection Sampling for Language Model Alignment ]] |
   | **STaR (Self-Taught Reasoner)**          | 早期的自举推理方法，通过生成-验证-训练循环提升|[[Self-Taught Reasoner Bootstrapping Reasoning With Reasoning]] |
   | **SPIN (Self-Play Fine-Tuning)**         | 自对弈微调，模型与自己博弈生成数据        | [[Self-Play Fine-Tuning]]  |
-  | **Self-Rewarding **         | 打破"奖励瓶颈"        | [[Self-Rewarding Language Model]]  |
-  | **Meta-Rewarding**         | 引入"元评判"升级        | [[Meta-Rewarding Language Models]]  |
+  | **Self-Rewarding **         | 自对弈微调，模型与自己博弈生成数据        | [[Self-Rewarding Language Model]]  |
+  | **Meta-Rewarding**         | 引入"元评判"升级        | [[Meta-Rewarding]]  |

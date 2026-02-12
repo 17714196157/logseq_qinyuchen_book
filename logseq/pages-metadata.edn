@@ -1,44 +1,44 @@
 [{:block/name "../assets/image_1744702648011_0.png s",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "../assets/rft工作流程_1770627193438_0.png  =",
-  :block/created-at 1770627882112,
-  :block/updated-at 1770627882112}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "../assets/rft工作流程_1770627193438_0.png  =300",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "../assets/rft工作流程_1770627193438_0.png  =300_500",
-  :block/created-at 1770627882111,
-  :block/updated-at 1770627882111}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "../assets/rft工作流程_1770627193438_0.png  =300x200",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "../assets/rft工作流程_1770627193438_0.png  =50_x",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "../assets/rft工作流程_1770627193438_0.png ,",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "../assets/rft工作流程_1770627193438_0.png =300x200",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "../assets/rft工作流程_1770627193438_0.png =400x",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "../assets/rft工作流程_1770627193438_0.png =400x300",
-  :block/created-at 1770627882111,
-  :block/updated-at 1770627882111}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name
   "../assets/rft工作流程_1770627193438_0.png width=_300_ height=_200_",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "../assets/rft工作流程_1770627193438_0.png=300x200",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name
   "../assets/《deep_learning_interviews》第二版_1642481065149_0.pdf",
-  :block/created-at 1770627882109,
-  :block/updated-at 1770627882109}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "2022年04月08日",
   :block/created-at 1649409846049,
   :block/updated-at 1649409846124}
@@ -111,14 +111,17 @@
  {:block/name "2026年02月09日",
   :block/created-at 1770595200000,
   :block/updated-at 1770595200000}
+ {:block/name "2026年02月12日",
+  :block/created-at 1770854400000,
+  :block/updated-at 1770854400000}
  {:block/name
   "@dnorm_ disease name normalization with pairwise learning to rank",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name
   "@prado_ projection attention networks for document classification on-device",
-  :block/created-at 1770627882112,
-  :block/updated-at 1770627882112}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "a",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
@@ -129,8 +132,8 @@
   :block/created-at 1762242323199,
   :block/updated-at 1762244218829}
  {:block/name "attachments",
-  :block/created-at 1770627882109,
-  :block/updated-at 1770627882109}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "aug 14th, 2021",
   :block/created-at 1628899200000,
   :block/updated-at 1628899200000}
@@ -144,17 +147,17 @@
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
  {:block/name "conferencepaper",
-  :block/created-at 1770627882112,
-  :block/updated-at 1770627882112}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "contents",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "dapo强化学习算法",
   :block/created-at 1748172775332,
   :block/updated-at 1748173138335}
  {:block/name "daxin jiang",
-  :block/created-at 1770627882112,
-  :block/updated-at 1770627882112}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "deep think with confidence",
   :block/created-at 1756715467277,
   :block/updated-at 1756715719925}
@@ -189,11 +192,11 @@
   :block/created-at 1643241600000,
   :block/updated-at 1643241600000}
  {:block/name "jian pei",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797631,
+  :block/updated-at 1770862797631}
  {:block/name "journalarticle",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "later",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
@@ -204,8 +207,8 @@
   :block/created-at 1642044326473,
   :block/updated-at 1642044441881}
  {:block/name "linjun shou",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797631,
+  :block/updated-at 1770862797631}
  {:block/name "mdp马尔科夫决策过程",
   :block/created-at 1744796238720,
   :block/updated-at 1744957875121}
@@ -214,11 +217,11 @@
   :block/created-at 1744649209950,
   :block/updated-at 1744963367708}
  {:block/name "ming gong",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797632,
+  :block/updated-at 1770862797632}
  {:block/name "mtp",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797631,
+  :block/updated-at 1770862797631}
  {:block/name "nov 15th, 2013",
   :block/created-at 1384473600000,
   :block/updated-at 1384473600000}
@@ -226,35 +229,39 @@
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
  {:block/name "prabhu kaliamoorthi",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "q-learning算法",
   :block/created-at 1744858789134,
   :block/updated-at 1744859084576}
  {:block/name "r. islamaj dogan",
-  :block/created-at 1770627882111,
-  :block/updated-at 1770627882111}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "r. leaman",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "reinforcement-learning-teachers-of-test-time-scali",
   :block/created-at 1752222272180,
   :block/updated-at 1752222854694}
  {:block/name "rejection sampling for language model alignment",
   :block/created-at 1770626161600,
-  :block/updated-at 1770627875965}
+  :block/updated-at 1770628431518}
  {:block/name "rejection sampling for language model alignment ",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
+ {:block/name
+  "self-taught reasoner bootstrapping reasoning with reasoning",
+  :block/created-at 1770861709937,
+  :block/updated-at 1770862773207}
  {:block/name "shining liang",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "soft thinking软思考",
   :block/created-at 1755764538318,
   :block/updated-at 1755764543604}
  {:block/name "sujith ravi",
-  :block/created-at 1770627882111,
-  :block/updated-at 1770627882111}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "todo",
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
@@ -265,17 +272,17 @@
   :block/created-at 1640943062316,
   :block/updated-at 1640943062316}
  {:block/name "wanli zuo",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "xianglin zuo",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "z. lu",
-  :block/created-at 1770627882106,
-  :block/updated-at 1770627882106}
+  :block/created-at 1770862797630,
+  :block/updated-at 1770862797630}
  {:block/name "zornitsa kozareva",
-  :block/created-at 1770627882110,
-  :block/updated-at 1770627882110}
+  :block/created-at 1770862797633,
+  :block/updated-at 1770862797633}
  {:block/name "价值函数",
   :block/created-at 1744797139031,
   :block/updated-at 1744958514884}
@@ -295,8 +302,8 @@
   :block/created-at 1744796629292,
   :block/updated-at 1744957729730}
  {:block/name "强化学习在rag系统中的实践",
-  :block/created-at 1770627882111,
-  :block/updated-at 1770627882111}
+  :block/created-at 1770862797634,
+  :block/updated-at 1770862797634}
  {:block/name "强化学习基础入口",
   :block/created-at 1744702458056,
   :block/updated-at 1752985584121}
@@ -318,10 +325,10 @@
  {:block/name
   "让模型自我进化(self-training) 或 迭代自举训练(iterative bootstrapping training) 或 自我演化(self-evolution)",
   :block/created-at 1770624817473,
-  :block/updated-at 1770626148094}
+  :block/updated-at 1770861698961}
  {:block/name "论文_soft thinking",
-  :block/created-at 1770627882107,
-  :block/updated-at 1770627882107}
+  :block/created-at 1770862797631,
+  :block/updated-at 1770862797631}
  {:block/name "论文解读",
   :block/created-at 1752055059584, 
   :block/updated-at 1770619932966}]
