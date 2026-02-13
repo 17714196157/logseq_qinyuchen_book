@@ -216,6 +216,12 @@
   "medrag_ enhancing retrieval-augmented generation with knowledge graph-elicited reasoning for healthcare copilot",
   :block/created-at 1744649209950,
   :block/updated-at 1744963367708}
+ {:block/name "meta-rewarding",
+  :block/created-at 1770909097019,
+  :block/updated-at 1770909097019}
+ {:block/name "meta-rewarding language models",
+  :block/created-at 1770867396084,
+  :block/updated-at 1770882851381}
  {:block/name "ming gong",
   :block/created-at 1770862797632,
   :block/updated-at 1770862797632}
@@ -249,6 +255,16 @@
  {:block/name "rejection sampling for language model alignment ",
   :block/created-at 1770862797633,
   :block/updated-at 1770862797633}
+ {:block/name "self-play fine-tuning",
+  :block/created-at 1770863758412,
+  :block/updated-at 1770865095645}
+ {:block/name "self-rewarding language model",
+  :block/created-at 1770865984945,
+  :block/updated-at 1770867247363}
+ {:block/name
+  "self-rewarding language models elf-rewarding language model",
+  :block/created-at 1770909097019,
+  :block/updated-at 1770909097019}
  {:block/name
   "self-taught reasoner bootstrapping reasoning with reasoning",
   :block/created-at 1770861709937,

@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :zotero/settings-v2 {"default" {:type-id "8923767", :zotero-data-directory "D:\\ENV\\坚果云\\Zotero", :zotero-linked-attachment-base-directory "D:\\ENV\\Zotero_期刊论文"}}
- :favorites ["让模型自我进化(self-training) 或 迭代自举训练(Iterative Bootstrapping Training) 或 自我演化（Self-Evolution）" "大模型安全防护方案" "AI应用" "论文解读" "强化学习基础入口"]
+ :favorites ["让模型自我进化(self-training) 或 迭代自举训练(Iterative Bootstrapping Training) 或 自我演化(Self-Evolution)" "让模型自我进化(self-training) 或 迭代自举训练(Iterative Bootstrapping Training) 或 自我演化（Self-Evolution）" "大模型安全防护方案" "AI应用" "论文解读" "强化学习基础入口"]
  :journal/page-title-format "yyyy年MM月dd日"
  :graph/settings {:builtin-pages? false}
 

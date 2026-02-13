@@ -1,0 +1,6 @@
+/* 限制图片最大宽度 */
+img {
+  max-width: 600px;
+  width: 80%;
+  height: 80%;
+}
